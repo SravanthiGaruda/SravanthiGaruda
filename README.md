@@ -14,7 +14,7 @@ With a diverse set of experiences ranging from academic research to industry int
 - HashiCorp Certified: Terraform Associate (003)
 - UTA: Big Data Management and Data Science
 - Deep Learning: ChatGPT Prompt Engineering for Developers
-- Finetuning Large Language Models
+- Deep Learning: Finetuning Large Language Models
 
 ## 🔧 Technical Skills
 
